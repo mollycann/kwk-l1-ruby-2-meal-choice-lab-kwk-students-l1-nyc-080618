@@ -13,9 +13,8 @@ def dinner (food= "salmon")
 
 
 
-# Call the methods with puts and your own arguments here. Like this:
-puts snacks("Swedish fish")
-## This returns "Any time, is the right time for Sweedish fish!"
+def snacks (food= "Swedish fish")
+puts "Any time, is the right time for #{swedish fish}."
 
 # call your methods here
 
