@@ -22,10 +22,6 @@ def snacks(food="Swedish fish")
 end 
 
 
-def snacks(food="Cheetos")
-  "Any time, is the right time for #{cheetos}!"
-end 
-
 puts breakfast 
 puts lunch
 puts dinner
